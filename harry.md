@@ -39,4 +39,4 @@ def hello():
 
 [google](https://www.google.com.tw/?hl=zh_TW)
 
-![中信兄弟](./img/brothers.png)
+![中信兄弟](https://i.imgur.com/pVSTJ5x.png)
